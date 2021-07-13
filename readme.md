@@ -1,3 +1,3 @@
 # my head..
 
-say something...
+say something!
